@@ -1,0 +1,4 @@
+telethon
+openpyxl
+nest_asyncio
+colorama
